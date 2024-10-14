@@ -2653,10 +2653,20 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 32403293783152198, guid: d48d250cd6e3e3446ad60cb5acdef53f,
+        type: 3}
+      propertyPath: m_Name
+      value: Puzzle
+      objectReference: {fileID: 0}
     - target: {fileID: 3313290977238208450, guid: d48d250cd6e3e3446ad60cb5acdef53f,
         type: 3}
       propertyPath: m_Name
       value: BookshelfRoom
+      objectReference: {fileID: 0}
+    - target: {fileID: 4144713114772169511, guid: d48d250cd6e3e3446ad60cb5acdef53f,
+        type: 3}
+      propertyPath: m_StartingSelectedInteractable
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 4661505122793981543, guid: d48d250cd6e3e3446ad60cb5acdef53f,
         type: 3}
@@ -2707,6 +2717,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5492056332062394768, guid: d48d250cd6e3e3446ad60cb5acdef53f,
+        type: 3}
+      propertyPath: m_StartingSelectedInteractable
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5856742601664530367, guid: d48d250cd6e3e3446ad60cb5acdef53f,
+        type: 3}
+      propertyPath: m_StartingSelectedInteractable
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6291337089850535945, guid: d48d250cd6e3e3446ad60cb5acdef53f,
+        type: 3}
+      propertyPath: onThreeCalls.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_BoolArgument
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7782376494588141881, guid: d48d250cd6e3e3446ad60cb5acdef53f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7812001437523608181, guid: d48d250cd6e3e3446ad60cb5acdef53f,
         type: 3}
